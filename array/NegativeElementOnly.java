@@ -16,6 +16,7 @@ public class NegativeElementOnly {
                 System.out.print(arr[i]+" ");
             }
         }
+        sc.close();
 
     }
 }

@@ -1,4 +1,4 @@
-//INPUT AND OUTPUUT OF AN ARRAY
+//INPUT AND OUTPUT OF AN ARRAY
 
 import java.util.Scanner;
 
@@ -15,7 +15,10 @@ public class InputOutput{
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i]+" ");
         }
+        sc.close();
     }
+
+    
     
 
     
