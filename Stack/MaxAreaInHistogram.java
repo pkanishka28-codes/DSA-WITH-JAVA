@@ -44,7 +44,6 @@ public class MaxAreaInHistogram {
         int arr[]={2,1,5,6,2,3};
         maxArea(arr);
     }
-    
 
     
 }
